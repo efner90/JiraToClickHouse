@@ -1,0 +1,9 @@
+{
+  "JiraHostSettings": {
+    "Scheme": "https",
+    "Host": "jira.pw",
+    "Token": "123",
+    "RequestIssue": "rest/api",
+    "WaitDelaySeconds": 60
+  }
+}

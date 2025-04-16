@@ -1,0 +1,26 @@
+{
+  "id": "367765",
+  "key": "DP-736",
+  "created": "11/26/2024 13:13:49",
+  "summary": "Протестировать и раскатить изменённую версию на хостинги",
+  "assignee": "Алексей Efner",
+  "creator": "Алексей Efner",
+  "customfield_16211": [
+    "Сайты Подсказчика (SC-114544)"
+  ],
+  "customfield_11000": "IntTools. Поддержка сайтов Подсказчика",
+  "priority": "Major",
+  "issuetype": "Task",
+  "customfield_10001": "sprint 13 (22.11-28.11.2024)",
+  "labels": [],
+  "timetracking": {
+    "originalEstimate": "5h",
+    "remainingEstimate": "5h",
+    "timeSpent": null
+  },
+  "status": "Development",
+  "customfield_14724": "",
+  "customfield_14725": "",
+  "customfield_14726": "",
+  "customfield_16513": ""
+}

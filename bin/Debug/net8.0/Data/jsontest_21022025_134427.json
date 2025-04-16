@@ -1,0 +1,26 @@
+{
+  "id": "368975",
+  "key": "DP-812",
+  "created": "11/29/2024 12:35:38",
+  "summary": "code review pokermetrix",
+  "assignee": "Дмитрий Moddix",
+  "creator": "Дмитрий Moddix",
+  "customfield_16211": [
+    "Сайты FINHUB (SC-114545)"
+  ],
+  "customfield_11000": "IntTools. Поддержка сайтов Финхаб",
+  "priority": "Major",
+  "issuetype": "Task",
+  "customfield_10001": "sprint 14 (29.11-5.12.2024)",
+  "labels": [],
+  "timetracking": {
+    "originalEstimate": "10h",
+    "remainingEstimate": "10h",
+    "timeSpent": null
+  },
+  "status": "Development",
+  "customfield_14724": "",
+  "customfield_14725": "",
+  "customfield_14726": "",
+  "customfield_16513": ""
+}

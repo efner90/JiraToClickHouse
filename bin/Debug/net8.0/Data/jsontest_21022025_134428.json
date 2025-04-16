@@ -1,0 +1,26 @@
+{
+  "id": "384016",
+  "key": "DP-1251",
+  "created": "01/23/2025 13:10:42",
+  "summary": "Версии шаблонов через SVNReleaser: Тестирование",
+  "assignee": "Игорь JustMK",
+  "creator": "Игорь JustMK",
+  "customfield_16211": [
+    "Софт для поддержки (L1,L2) (SC-114541)"
+  ],
+  "customfield_11000": "IntTools. Софт для поддержки (L1,L2)",
+  "priority": "Major",
+  "issuetype": "Task",
+  "customfield_10001": "sprint 3 (27.01-31.01.2025)",
+  "labels": [],
+  "timetracking": {
+    "originalEstimate": "8h",
+    "remainingEstimate": "8h",
+    "timeSpent": "8.75h"
+  },
+  "status": "Development",
+  "customfield_14724": "",
+  "customfield_14725": "",
+  "customfield_14726": "",
+  "customfield_16513": ""
+}

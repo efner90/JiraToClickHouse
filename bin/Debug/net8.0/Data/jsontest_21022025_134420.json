@@ -1,0 +1,26 @@
+{
+  "id": "385574",
+  "key": "DP-1287",
+  "created": "01/28/2025 18:06:10",
+  "summary": "Правка победителей турниров на страницах",
+  "assignee": "Алексей Efner",
+  "creator": "Алексей Efner",
+  "customfield_16211": [
+    "Сайты Подсказчика (SC-114544)"
+  ],
+  "customfield_11000": "Продукт \"Подсказки по Api\" в рамках проекта по открытию DP Int.",
+  "priority": "Major",
+  "issuetype": "Task",
+  "customfield_10001": "sprint 3 (27.01-31.01.2025)",
+  "labels": [],
+  "timetracking": {
+    "originalEstimate": "10h",
+    "remainingEstimate": "8h",
+    "timeSpent": "2h"
+  },
+  "status": "Done",
+  "customfield_14724": "",
+  "customfield_14725": "",
+  "customfield_14726": "",
+  "customfield_16513": ""
+}

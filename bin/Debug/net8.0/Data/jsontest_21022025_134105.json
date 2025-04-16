@@ -1,0 +1,28 @@
+{
+  "id": "356026",
+  "key": "DP-412",
+  "created": "10/22/2024 11:25:19",
+  "summary": "Описание интеграций",
+  "assignee": "Юлия Aurum",
+  "creator": "Юлия Aurum",
+  "customfield_16211": [
+    "Delta (SC-118349)"
+  ],
+  "customfield_11000": "Delta_Операционные задачи",
+  "priority": "Major",
+  "issuetype": "Task",
+  "customfield_10001": "sprint 17.10.-30.10.24",
+  "labels": [
+    "sprint_17.10.-30.10.24"
+  ],
+  "timetracking": {
+    "originalEstimate": "0h",
+    "remainingEstimate": "0h",
+    "timeSpent": "15.25h"
+  },
+  "status": "Development",
+  "customfield_14724": "[\r\n  \"AlienPoker (OTP-76)\"\r\n]",
+  "customfield_14725": "[\r\n  \"ACONCAGUA (OTP-682)\"\r\n]",
+  "customfield_14726": "[\r\n  \"FL (OTP-870)\"\r\n]",
+  "customfield_16513": ""
+}

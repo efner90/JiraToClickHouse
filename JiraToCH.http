@@ -1,0 +1,6 @@
+@JiraToCH_HostAddress = http://localhost:5242
+
+GET {{JiraToCH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
